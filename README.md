@@ -1,2 +1,4 @@
-# mickylee.github.io
-博客 http://mickyli.com
+# 博客
+http://mickyli.com
+
+Based by Jekyll-Boostrap.
