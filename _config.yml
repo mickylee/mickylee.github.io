@@ -1,0 +1,20 @@
+# Site settings
+title: Mickyli - 李倩博客
+email: admin@mickyli.com
+description: 李倩，英文名mickyli，互联网从业者，码农。开源爱好者，GitHub:https://github.com/mickylee。
+keywords: mickyli,李倩,Java,Java教程,web,Java web,H5,css,wap,freemarker,struts,Hibernate,spring,oracle
+
+baseurl: "/" 
+url: "http://mickyli.com" 
+
+timezone:    PRC
+encoding:    UTF-8
+
+permalink: date
+paginate_path: 'page:num'
+
+future:      true
+highlighter: pygments
+
+# Build settings
+markdown: kramdown

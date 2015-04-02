@@ -1,0 +1,23 @@
+.intro {
+    background: url("../image/intro.jpg") no-repeat scroll center bottom / cover #000;
+    color: #fff;
+    display: table;
+    height: auto;
+    padding: 100px 0;
+    text-align: center;
+    width: 100%;
+}
+.footer {
+    border-top: 1px solid rgba(0, 0, 0, 0.05);
+    color: rgba(0, 0, 0, 0.3);
+    font-size: 1em;
+    padding: 1em 0 2em;
+}
+.footer .copyright{
+	-moz-box-align: center;
+    -moz-box-pack: center;
+    display: -moz-box;
+	margin:0 auto;
+	max-width: 960px;
+    width: 80%;
+}
