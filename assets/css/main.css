@@ -37,11 +37,6 @@ body {
     padding: 0;
 }
 
-footer {
-    height: 105px;
-    position: relative;
-}
-
 .navbar-custom {
     background-color: rgba(255, 255, 255, 0.3);
 	font-family: "Hiragino Sans GB","Microsoft YaHei","微软雅黑",Georgia,tahoma,arial,simsun,"宋体";
@@ -130,6 +125,12 @@ footer {
     display: inline-block;
     padding-left: 10px;
 }
+
+footer {
+    height: auto;
+    position: relative;
+}
+
 
 footer {
     background: none repeat scroll 0 0 #4a4849;
